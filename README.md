@@ -6,10 +6,9 @@ I am a Ph.D. student @ Italian Institute of Technology, currently working on Spa
 
 
 <a href="https://it.linkedin.com/in/francesco-giuliari-118b90164">
-  <img align="left" alt="Francesco's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  My Linkedin 
+  <img align="left" alt="Francesco's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=fgiuliari.fgiuliari)
 
 This is my [scholar](https://scholar.google.com/citations?user=EOU10lkAAAAJ)
 
