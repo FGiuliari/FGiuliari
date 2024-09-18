@@ -2,8 +2,7 @@
 ### Hey there! 👋
 
 I'm [Francesco Giuliari](https://fgiuliari.github.io/)!
-I am a Ph.D. student @ Italian Institute of Technology, currently working on Spatial AI with a focus on Robot Navigation and Computer Vision!
-
+I’m a Researcher at the Technology of Vision Research Unit at Fondazione Bruno Kessler
 
 <a href="https://it.linkedin.com/in/francesco-giuliari-118b90164">
   My Linkedin 
